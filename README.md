@@ -4,7 +4,7 @@
 As bootcamp continues and the content becomes more challenging, I am motivated by my classmates to continue working hard on the homework assignments. 
 
 # Screenshot
-![](screenshot_markdown.jpg)
+![Image here](screenshot_markdown.JPG)
 
 # How To Use
 Click through the promts and confirms to generate your very own, randomized, and unique password! 
